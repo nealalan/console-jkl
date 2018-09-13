@@ -1,6 +1,7 @@
 [nealalan.github.io](https://nealalan.github.io)/[console-jkl](https://nealalan.github.io/console-jkl)
 
-ipsom 
+**ipsom bold**
+- ipsom
 
 Basic commands to navigate use the command line
 ECHO - write arguments to the standard output
