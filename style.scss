@@ -1,0 +1,32 @@
+
+body {
+  background-color: #000000;
+  margin: 8px;
+}
+
+a, a:hover, h1, h2, h3, h4, h5, h6, p, ul, ol, table, pre, dl {
+  font: Courier;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 400;
+
+}
+
+strong, b {
+  font: Courier;
+  color:#ffffff;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+img {
+  max-width: 600;
+  height: auto;
+}
+
+hr {
+  border:0;
+  background:#000000;
+  height: 1px;
+  margin:0 0 20px;
+}
