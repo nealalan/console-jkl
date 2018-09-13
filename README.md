@@ -10,8 +10,7 @@ $ echo "cat" > cat.txt
 $ echo $PATH
 $ echo $(date)
 ```
-
-![](https://raw.githubusercontent.com/nealalan/command/master/images/grep-E.png)
+<img width=80% src="https://raw.githubusercontent.com/nealalan/command/master/images/grep-E.png">
 
 Okay.
 
