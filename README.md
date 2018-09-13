@@ -10,7 +10,7 @@ $ echo "cat" > cat.txt
 $ echo $PATH
 $ echo $(date)
 ```
-![](https://raw.githubusercontent.com/nealalan/command/master/images/grep-E.png =80%)
+![](https://raw.githubusercontent.com/nealalan/command/master/images/grep-E.png)
 
 Okay.
 
