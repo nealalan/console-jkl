@@ -10,8 +10,6 @@ $ echo "cat" > cat.txt
 $ echo $PATH
 $ echo $(date)
 ```
-![](https://raw.githubusercontent.com/nealalan/command/master/images/grep-E.png)
-
 Okay.
 
 [edit](https://github.com/nealalan/console-jkl/edit/master/README.md)
