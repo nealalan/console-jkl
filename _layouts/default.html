@@ -1,11 +1,9 @@
 <!doctype html>
 <html>
   <head>
-    {% capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %}
-    {% capture url %}{% if lchar == "/" %}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif %}{% endcapture %}
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <meta >
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>{{ site.github.repository_name }}</title>
 
     <script
       src="https://code.jquery.com/jquery-3.2.1.min.js"
@@ -13,20 +11,17 @@
       crossorigin="anonymous"></script>
 
     <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"></script>
-
-    <meta name="viewport" content="width=device-width">
-
   </head>
-  <body>
+  <body bgcolor="black" link="white" vlink="white" class=" hasGoogleVoiceExt">
+    <font face="courier" color="white">
     <div class="wrapper">
       <section>
       <div id="content">
         {{ content }}
       </div>
       </section>
-      <footer>
-      </footer>
     </div>
+    </font>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   </body>
 </html>
