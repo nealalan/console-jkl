@@ -1,5 +1,7 @@
 [nealalan.github.io](https://nealalan.github.io)/[console-jkl](https://nealalan.github.io/console-jkl)
 
+PURPOSE: This makes the github.io pages to render with this specific stylesheet.
+
 **ipsom bold**
 - ipsom
 
